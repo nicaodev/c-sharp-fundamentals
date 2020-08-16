@@ -1,0 +1,13 @@
+D:\TFS\c-sharp-fundamentals\Sobreposicao\Sobreposicao\Sobreposicao\bin\Debug\netcoreapp3.1\Sobreposicao.exe
+D:\TFS\c-sharp-fundamentals\Sobreposicao\Sobreposicao\Sobreposicao\bin\Debug\netcoreapp3.1\Sobreposicao.deps.json
+D:\TFS\c-sharp-fundamentals\Sobreposicao\Sobreposicao\Sobreposicao\bin\Debug\netcoreapp3.1\Sobreposicao.runtimeconfig.json
+D:\TFS\c-sharp-fundamentals\Sobreposicao\Sobreposicao\Sobreposicao\bin\Debug\netcoreapp3.1\Sobreposicao.runtimeconfig.dev.json
+D:\TFS\c-sharp-fundamentals\Sobreposicao\Sobreposicao\Sobreposicao\bin\Debug\netcoreapp3.1\Sobreposicao.dll
+D:\TFS\c-sharp-fundamentals\Sobreposicao\Sobreposicao\Sobreposicao\bin\Debug\netcoreapp3.1\Sobreposicao.pdb
+D:\TFS\c-sharp-fundamentals\Sobreposicao\Sobreposicao\Sobreposicao\obj\Debug\netcoreapp3.1\Sobreposicao.csprojAssemblyReference.cache
+D:\TFS\c-sharp-fundamentals\Sobreposicao\Sobreposicao\Sobreposicao\obj\Debug\netcoreapp3.1\Sobreposicao.AssemblyInfoInputs.cache
+D:\TFS\c-sharp-fundamentals\Sobreposicao\Sobreposicao\Sobreposicao\obj\Debug\netcoreapp3.1\Sobreposicao.AssemblyInfo.cs
+D:\TFS\c-sharp-fundamentals\Sobreposicao\Sobreposicao\Sobreposicao\obj\Debug\netcoreapp3.1\Sobreposicao.csproj.CoreCompileInputs.cache
+D:\TFS\c-sharp-fundamentals\Sobreposicao\Sobreposicao\Sobreposicao\obj\Debug\netcoreapp3.1\Sobreposicao.dll
+D:\TFS\c-sharp-fundamentals\Sobreposicao\Sobreposicao\Sobreposicao\obj\Debug\netcoreapp3.1\Sobreposicao.pdb
+D:\TFS\c-sharp-fundamentals\Sobreposicao\Sobreposicao\Sobreposicao\obj\Debug\netcoreapp3.1\Sobreposicao.genruntimeconfig.cache
