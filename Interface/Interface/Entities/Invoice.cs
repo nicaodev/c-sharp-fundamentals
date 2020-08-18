@@ -21,8 +21,8 @@ namespace Interface.Entities
         public override string ToString()
         {
             return @$"Pagamento básico: {PagamentoBasico.ToString("F2", CultureInfo.InvariantCulture)}
-            \nTaxa: {Taxa.ToString("F2", CultureInfo.InvariantCulture)}
-            \nPagamento total: {PagamentoTotal.ToString("F2", CultureInfo.InvariantCulture)}";
+            Taxa: {Taxa.ToString("F2", CultureInfo.InvariantCulture)}
+            Pagamento total: {PagamentoTotal.ToString("F2", CultureInfo.InvariantCulture)}";
         }
     }
 }
