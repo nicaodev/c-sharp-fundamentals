@@ -10,6 +10,18 @@ namespace Generics
 {
     class Program
     {
+
+        Process[] cmdAberto = Process.GetProcessesByName("cmd");
+        Boolean controle = false;
+
+            foreach (var item in cmdAberto)
+            {
+                controle = item.MainWindowTitle == "ng" ? true : controle;
+            }
+            if (!controle)
+                System.Diagnostics.Process.Start(@"cmd.exe", @"/k cd D:\Users\est11396\Documents\TFS\New\SisRe\SisReWeb & ng serve");
+
+
         static void Main(string[] args)
         {
             Console.WriteLine("Escolha a opcao desejada: ");
